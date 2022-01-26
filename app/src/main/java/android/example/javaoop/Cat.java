@@ -6,6 +6,8 @@ public class Cat extends Animal {
     int age;
     String name;
 
+
+
     public Cat() {
 
     }
