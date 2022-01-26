@@ -1,0 +1,2 @@
+rootProject.name = "JavaOOP"
+include ':app'
